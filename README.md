@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @yethembe
-- 👀 I’m interested in neurosurgery, fashion and photography.
-- 🌱 I’m currently learning how to navigate Github lol
+I’m Yethembe
+
 
 - 
 <!---
